@@ -11,10 +11,10 @@
         android:id="@+id/custom_toolbar_rules"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="?attr/colorPrimary"
-        android:textColor="?attr/itemBackground"
+        android:background="?attr/toolbarBackground"
+        android:textColor="?attr/toolbarTextColor"
         android:minHeight="?attr/actionBarSize" />
-
+<!--        android:background="?attr/colorPrimary"-->
 </LinearLayout>
 
 

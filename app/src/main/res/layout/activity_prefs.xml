@@ -9,7 +9,7 @@
         android:layout_height="?attr/actionBarSize"
         android:minHeight="?attr/actionBarSize"
         android:id="@+id/toolbar"
-        android:background="?attr/colorPrimary">
-<!--        android:background="?attr/itemBackground">-->
+        android:background="?attr/toolbarBackground">
     </androidx.appcompat.widget.Toolbar>
+<!--        android:background="?attr/colorPrimary">-->
 </LinearLayout>

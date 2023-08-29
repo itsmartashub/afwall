@@ -12,7 +12,8 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:minHeight="?attr/actionBarSize"
-        android:background="?attr/colorPrimary" />
+        android:background="?attr/toolbarBackground" />
+<!--        android:background="?attr/colorPrimary" />-->
 
         <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
             android:id="@+id/ruleScrollView"

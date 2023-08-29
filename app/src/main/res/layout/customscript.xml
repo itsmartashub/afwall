@@ -9,7 +9,8 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:minHeight="?attr/actionBarSize"
-        android:background="?attr/colorPrimary"/>
+        android:background="?attr/toolbarBackground"/>
+<!--        android:background="?attr/colorPrimary"/>-->
 
     <LinearLayout
         android:layout_width="fill_parent"
