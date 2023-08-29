@@ -19,8 +19,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:minHeight="?android:attr/listPreferredItemHeight"
-        android:dividerHeight="5.0dp"
-        android:divider="@android:color/transparent"
+        android:divider="@null"
         android:fastScrollEnabled="true"/>
 
+<!--        android:dividerHeight="5.0dp"-->
+<!--        android:divider="@android:color/transparent"-->
 </LinearLayout>
