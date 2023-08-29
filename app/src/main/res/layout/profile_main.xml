@@ -13,13 +13,14 @@
         android:layout_height="?attr/actionBarSize"
         android:minHeight="?attr/actionBarSize"
         android:background="?attr/colorPrimary"/>
+<!--        android:background="?attr/itemBackground"/>-->
 
     <ListView android:id="@+id/listProfileView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:divider="#212121"
         android:minHeight="?android:attr/listPreferredItemHeight"
-        android:dividerHeight="2.0px"
+        android:dividerHeight="5.0dp"
+        android:divider="@android:color/transparent"
         android:fastScrollEnabled="true"/>
 
 </LinearLayout>

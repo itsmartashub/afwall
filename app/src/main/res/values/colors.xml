@@ -35,9 +35,9 @@
 		<drawable name="ab_bg_black">#000000</drawable>
 		<drawable name="class_zero_background">#000000</drawable>
 
-		<drawable name="divider_white_line">#6E3F43</drawable>
+		<drawable name="divider_white_line">#006E3F43</drawable>
 
-		<color name="dark_bg">#242424</color>
+		<color name="dark_bg">#2b2120</color>
 		<color name="white">#fdf1f9</color>
 		<color name="menu">#faeeee</color>
 
@@ -45,6 +45,8 @@
 		<color name="list_checkbox">#B2777C</color>
 
 		<color name="black">#000000</color>
+		<color name="brown">#571d19</color>
+
 		<color name="widget_color1">#D79298</color>
 		<color name="widget_color2">#B2777C</color>
 
