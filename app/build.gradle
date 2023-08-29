@@ -4,13 +4,13 @@ android {
 
     defaultConfig {
         compileSdk 33
-        applicationId "dev.ukanth.ufirewall"
-        //applicationId "dev.ukanth.ufirewall.donate"
+//        applicationId "dev.ukanth.ufirewall"
+        applicationId "dev.ukanth.ufirewall.donate"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 20230828
         versionName "3.6.0"
-        //buildConfigField 'boolean', 'DONATE', 'true'
+        buildConfigField 'boolean', 'DONATE', 'true'
     }
 
     buildFeatures {
